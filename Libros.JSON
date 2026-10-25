@@ -1,0 +1,116 @@
+[
+    {
+        "Libros":{
+            "titulo": "Aprendi Que",
+            "autor": "Dylan YT",
+            "Fecha":{
+                "Año": "2009",
+                "Mes": "Junio",
+                "Dia": "24"
+            },
+            "Genero": "Sobre la via",
+            "Disponible": "True",
+            "Etiquetas": ["Literatura"]
+        }
+    },
+      {
+        "Libros":{
+            "titulo": "Siempre Se Aprende",
+            "autor": "Juanes Yatacue",
+            "Fecha":{
+                "Año": "2015",
+                "Mes": "Julio",
+                "Dia": "27"
+            },
+            "Genero": "Sobre la via",
+            "Disponible": "True",
+            "Etiquetas": ["Literatura"]
+        }
+    },
+     {
+        "Libros":{
+            "titulo": "Sómos Amigos?",
+            "autor": "Dylan YT",
+            "Fecha":{
+                "Año": "2015",
+                "Mes": "Julio",
+                "Dia": "27"
+            },
+            "Genero": "Sobre la via",
+            "Disponible": "True",
+            "Etiquetas": ["Historia"]
+        }
+    },
+        {
+        "Libros":{
+            "titulo": "Quien Soy?",
+            "autor": "Dylan YT",
+            "Fecha":{
+                "Año": "2015",
+                "Mes": "Agosto",
+                "Dia": "10"
+            },
+            "Genero": "Sobre la via",
+            "Disponible": "True",
+            "Etiquetas": ["Historia"]
+        }
+    },
+    {
+        "Libros":{
+            "titulo": "Mente Millonaria",
+            "autor": "T. Harv Eker",
+            "Fecha":{
+                "Año": "1988",
+                "Mes": "Agosto",
+                "Dia": "10"
+            },
+            "Genero": "Mente Positiva",
+            "Disponible": "True",
+            "Etiquetas": ["Actitud"]
+        }
+    },
+      {
+        "Libros":{
+            "titulo": "Padre Rico Padre Pobre",
+            "autor": "Robert Kiyoaki",
+            "Fecha":{
+                "Año": "1988",
+                "Mes": "Agosto",
+                "Dia": "10"
+            },
+            "Genero": "Mente Positiva",
+            "Disponible": "True",
+            "Etiquetas": ["Actitud"]
+        }
+    },
+
+ {
+        "Libros":{
+            "titulo": "Cómo influir en la sociedad",
+            "autor": "Robert Kiyoaki",
+            "Fecha":{
+                "Año": "1988",
+                "Mes": "Agosto",
+                "Dia": "10"
+            },
+            "Genero": "Mente Positiva",
+            "Disponible": "True",
+            "Etiquetas": ["Actitud"]
+        }
+    },
+    {
+        "Libros":{
+            "titulo": "El exito",
+            "autor": "T. Harv Eker",
+            "Fecha":{
+                "Año": "1999",
+                "Mes": "Agosto",
+                "Dia": "24"
+            },
+            "Genero": "Mente Positiva",
+            "Disponible": "True",
+            "Etiquetas": ["Actitud"]
+        }
+    }
+
+]
