@@ -1,0 +1,27 @@
+
+--{
+  "Libros.Fecha.Año": {
+    "$gt": "2010"
+  }
+}
+-- Esto  mostrará los títulos y 
+autores de los libros, 
+sin mostrar los demás campos solamente lo que pedi.
+{
+  "Libros.Genero": {
+    $in: ["Sobre la via", "Mente Positiva"]
+  }
+}
+{
+  "_id": 0,
+  "Libros.titulo": 1,
+  "Libros.autor": 1
+}--Mostrar los 5 libros disponibles más
+ recientes
+{
+  "Libros.Disponible": "True"
+}
+{
+  "Libros.Fecha.Año": -1
+}
+Y para solamente mostar 5 libros le doy 5 en limit y ya.
